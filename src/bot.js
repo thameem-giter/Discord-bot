@@ -167,4 +167,4 @@ client.on("message", (message) => {
 client.on("ready", () => {
   console.log("Bazingaaaa✌️");
 });
-client.login("OTI0MTM1MDMwMTc4MDY2NTEy.YcaJ0A.rfmimy-Uth27i6WjotdtJlfZwRQ");
+client.login("");
